@@ -1,1 +1,26 @@
-body{}
+.container{
+    background-color: rgb(250, 226, 120);
+    width: 900px;
+}
+
+.nav{
+    background-color: #74b2f0;
+    padding: 1rem;
+}
+
+.nav-link{
+    color: rgb(38, 96, 255);
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0.8rem;
+}
+
+main{
+    color: rgb(38, 96, 255);
+    padding: 0.8rem;
+}
+
+footer p{
+    color: rgb(38, 96, 255);
+    text-align: center;
+}
