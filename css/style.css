@@ -15,7 +15,11 @@
     padding: 0.8rem;
 }
 
-main{
+main h1{
+    color: rgb(38, 96, 255);
+}
+
+main p{
     color: rgb(38, 96, 255);
     padding: 0.8rem;
 }
